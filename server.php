@@ -43,7 +43,7 @@ if (isset($_POST['reg_user'])) {
   			  VALUES('$name', '$email', '$contact', '$branch', '$sem', '$track', '$check')";
   	mysqli_query($db, $query);
   	$_SESSION['username'] = $name;
-  	$_SESSION['success'] = "You are now logged in";
+  	$_SESSION['success'] = "Thank You!";
   	header('location: home.php');
   }
 }
