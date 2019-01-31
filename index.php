@@ -31,7 +31,7 @@
 			<div class="contact1-pic js-tilt" data-tilt>
 				<img src="images/img-02.png" alt="IMG">
 				<div class="alert alert-primary" role="alert">
-  Hello ! Join with Programmer Me for Upcoming Python & Android Workshop Series.
+  Hello ! Join Programmer Me for Upcoming Python & Android Workshop Series.
 </div>
 			</div>
 
@@ -90,18 +90,13 @@
 	<input  type="radio" name="check" value="PC" required>I have a PC&nbsp
 	<input  type="radio" name="check" value="NPC" >I don't have a PC&nbsp
 	<br>
-	<input  type="radio" name="check" value="PCH" >I have PC with more than 4GB RAM and Better Processor(Without this you can't able to attend Android workshops)&nbsp
+	<input  type="radio" name="check" value="PCH" >My PC has more than 4GB of RAM and Better Processor(Without this you can't  attend the Android workshop)&nbsp
 </center>
 	<span class="shadow-input1"></span>
 </div>
 
 
 
-
-			<!--<div class="wrap-input1 validate-input" data-validate = "Message is required">
-					<textarea class="input1" name="password_1" placeholder="Message"></textarea>
-					<span class="shadow-input1"></span>
-				</div>-->
 
 				<div class="container-contact1-form-btn">
 					<button class="contact1-form-btn" type="submit"  name="reg_user">
